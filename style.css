@@ -1,0 +1,26 @@
+#ul{
+    list-style: none;
+    font-family: cursive;
+    float:right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color:grey;
+}
+
+#search{
+    color: black;
+    font-size: larger ;
+}
+
+#search_button{
+    font-size: larger;
+}
+
+#lucky_button{
+    font-size: larger;
+}
+
+#abhjeet_button{
+    font-size: larger;
+}
